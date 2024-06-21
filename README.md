@@ -51,4 +51,7 @@ belly-button-challenge/
 ### Deployment
 
 - Deployed the dashboard to GitHub Pages for easy access and sharing:
-- ```https://truptiradadiya.github.io/belly-button-challenge/```
+
+```
+https://truptiradadiya.github.io/belly-button-challenge/
+```
